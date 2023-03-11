@@ -12,6 +12,8 @@ import facebook from './facebook.svg'
 import instagram from './instagram.svg'
 import linkedin from './linkedin.svg'
 import twitter  from './twitter.svg'
+import search from './search.svg'
+import menu from './menu.svg'
 
 export {
     planet01,
@@ -27,5 +29,7 @@ export {
     facebook,
     instagram,
     linkedin,
-    twitter
+    twitter,
+    search,
+    menu
 }
