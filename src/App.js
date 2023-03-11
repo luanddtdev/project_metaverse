@@ -7,8 +7,11 @@ const App = () => {
     <div className='bg-primary-black overflow-hidden'>
       <Navbar />
       <Hero />
-      <About />
-      <Explore />
+      <div className='relative'>
+        <About />
+        <div className='gradient-03 z-0' />
+        <Explore />
+      </div>
       <GetStarted />
       <WhatsNew />
       <World />

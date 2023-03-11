@@ -16,6 +16,7 @@ import search from './search.svg'
 import menu from './menu.svg'
 import cover from './cover.png'
 import stamp from './stamp.png'
+import arrowDown from './arrow-down.svg'
 
 export {
     planet01,
@@ -35,5 +36,6 @@ export {
     search,
     menu,
     cover,
-    stamp
+    stamp,
+    arrowDown
 }
