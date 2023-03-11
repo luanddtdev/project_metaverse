@@ -4,7 +4,7 @@ import { About, Explore, Feedback, GetStarted, Hero, Insight, WhatsNew, World } 
 
 const App = () => {
   return (
-    <div className='bg-primary-black'>
+    <div className='bg-primary-black overflow-hidden'>
       <Navbar />
       <Hero />
       <About />

@@ -14,6 +14,8 @@ import linkedin from './linkedin.svg'
 import twitter  from './twitter.svg'
 import search from './search.svg'
 import menu from './menu.svg'
+import cover from './cover.png'
+import stamp from './stamp.png'
 
 export {
     planet01,
@@ -31,5 +33,7 @@ export {
     linkedin,
     twitter,
     search,
-    menu
+    menu,
+    cover,
+    stamp
 }
